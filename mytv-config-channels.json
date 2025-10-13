@@ -27,7 +27,7 @@
       "id": "bakutv",
       "name": "Baku TV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/bakutv.png",
-      "server": "rtmp.baku.tv",
+      "server": "rtmp.baku2.tv",
       "tokenRequired": false,
       "quality": ["HD"],
       "active": true,
@@ -172,4 +172,5 @@
       "sdUrl": "https://daioncdn.net/spacetv/spacetv_sd.m3u8"
     }
   }
+
 }
