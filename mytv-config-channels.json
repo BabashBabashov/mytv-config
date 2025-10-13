@@ -1,0 +1,175 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-10-08T06:10:00Z",
+  "updateInterval": 1800,
+  "channels": [
+    {
+      "id": "aztv",
+      "name": "AZ TV",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/aztv.png",
+      "server": "str.yodacdn.net",
+      "tokenRequired": true,
+      "quality": ["HD", "SD"],
+      "active": true,
+      "priority": 1
+    },
+    {
+      "id": "itv",
+      "name": "İTV",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/itv.png",
+      "server": "live.itv.az",
+      "tokenRequired": false,
+      "quality": ["HD", "SD"],
+      "active": true,
+      "priority": 2
+    },
+    {
+      "id": "bakutv",
+      "name": "Baku TV",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/bakutv.png",
+      "server": "rtmp.baku.tv",
+      "tokenRequired": false,
+      "quality": ["HD"],
+      "active": true,
+      "priority": 3
+    },
+    {
+      "id": "realtv",
+      "name": "Real TV",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/realtv.png",
+      "server": "str2.yodacdn.net",
+      "tokenRequired": true,
+      "quality": ["HD", "SD"],
+      "active": true,
+      "priority": 4
+    },
+    {
+      "id": "medeniyyet",
+      "name": "Mədəniyyət TV",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/medeniyyet.png",
+      "server": "str.yodacdn.net",
+      "tokenRequired": true,
+      "quality": ["HD", "SD"],
+      "active": true,
+      "priority": 5
+    },
+    {
+      "id": "idman",
+      "name": "İdman TV",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/idman.png",
+      "server": "str.yodacdn.net",
+      "tokenRequired": true,
+      "quality": ["HD", "SD"],
+      "active": true,
+      "priority": 6
+    },
+    {
+      "id": "kanal35",
+      "name": "Kanal 35",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/kanal35.png",
+      "server": "str.yodacdn.net",
+      "tokenRequired": true,
+      "quality": ["HD", "SD"],
+      "active": true,
+      "priority": 7
+    },
+    {
+      "id": "naxcivan",
+      "name": "Naxçıvan TV",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/naxcivan.png",
+      "server": "str2.yodacdn.net",
+      "tokenRequired": true,
+      "quality": ["HD", "SD"],
+      "active": true,
+      "priority": 8
+    },
+    {
+      "id": "xezer",
+      "name": "Xəzər TV",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/xezer.png",
+      "server": "turknet.ercdn.net",
+      "tokenRequired": false,
+      "quality": ["HD", "SD"],
+      "active": true,
+      "priority": 9
+    },
+    {
+      "id": "space",
+      "name": "Space TV",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/space.png",
+      "server": "daioncdn.net",
+      "tokenRequired": false,
+      "quality": ["HD", "SD"],
+      "active": true,
+      "priority": 10
+    }
+  ],
+  "tokens": {
+    "aztv": {
+      "token": "live_token_will_be_updated_here",
+      "sessionId": "session_id_here",
+      "expires": 1728374400,
+      "lastUpdated": 1728367200,
+      "hdUrl": "https://str.yodacdn.net/aztv/index.m3u8?token={token}",
+      "sdUrl": "https://str.yodacdn.net/aztv_sd/index.m3u8?token={token}"
+    },
+    "realtv": {
+      "token": "real_token_here",
+      "sessionId": "real_session_id",
+      "expires": 1728374400,
+      "lastUpdated": 1728367200,
+      "hdUrl": "https://str2.yodacdn.net/realtv/index.m3u8?token={token}",
+      "sdUrl": "https://str2.yodacdn.net/realtv_sd/index.m3u8?token={token}"
+    },
+    "medeniyyet": {
+      "token": "medeniyyet_token_here",
+      "sessionId": "medeniyyet_session",
+      "expires": 1728374400,
+      "lastUpdated": 1728367200,
+      "hdUrl": "https://str.yodacdn.net/med/index.m3u8?token={token}",
+      "sdUrl": "https://str.yodacdn.net/med_sd/index.m3u8?token={token}"
+    },
+    "idman": {
+      "token": "idman_token_here",
+      "sessionId": "idman_session",
+      "expires": 1728374400,
+      "lastUpdated": 1728367200,
+      "hdUrl": "https://str.yodacdn.net/idman/index.m3u8?token={token}",
+      "sdUrl": "https://str.yodacdn.net/idman_sd/index.m3u8?token={token}"
+    },
+    "kanal35": {
+      "token": "kanal35_token_here",
+      "sessionId": "kanal35_session",
+      "expires": 1728374400,
+      "lastUpdated": 1728367200,
+      "hdUrl": "https://str.yodacdn.net/kanal35/index.m3u8?token={token}",
+      "sdUrl": "https://str.yodacdn.net/kanal35_sd/index.m3u8?token={token}"
+    },
+    "naxcivan": {
+      "token": "naxcivan_token_here",
+      "sessionId": "naxcivan_session",
+      "expires": 1728374400,
+      "lastUpdated": 1728367200,
+      "hdUrl": "https://str2.yodacdn.net/naxcivan/index.m3u8?token={token}",
+      "sdUrl": "https://str2.yodacdn.net/naxcivan_sd/index.m3u8?token={token}"
+    }
+  },
+  "staticChannels": {
+    "itv": {
+      "hdUrl": "https://live.itv.az/hls/itv_hd.m3u8",
+      "sdUrl": "https://live.itv.az/hls/itv_sd.m3u8"
+    },
+    "bakutv": {
+      "hdUrl": "https://rtmp.baku.tv/live/bakutv.m3u8",
+      "sdUrl": "https://rtmp.baku.tv/live/bakutv_sd.m3u8"
+    },
+    "xezer": {
+      "hdUrl": "https://turknet.ercdn.net/xezer/xezer.m3u8",
+      "sdUrl": "https://turknet.ercdn.net/xezer/xezer_sd.m3u8"
+    },
+    "space": {
+      "hdUrl": "https://daioncdn.net/spacetv/spacetv.m3u8",
+      "sdUrl": "https://daioncdn.net/spacetv/spacetv_sd.m3u8"
+    }
+  }
+}
