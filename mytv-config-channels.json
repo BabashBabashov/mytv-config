@@ -5,7 +5,7 @@
   "channels": [
     {
       "id": "aztv",
-      "name": "AZ TV",
+      "name": "AZTV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/aztv.png",
       "server": "str.yodacdn.net",
       "tokenRequired": true,
@@ -17,8 +17,8 @@
       "id": "itv",
       "name": "İTV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/itv.png",
-      "server": "live.itv.azz",
-      "tokenRequired": true,
+      "server": "live.itv.az",
+      "tokenRequired": false,
       "quality": ["HD", "SD"],
       "active": true,
       "priority": 2
@@ -27,7 +27,7 @@
       "id": "bakutv",
       "name": "Baku TV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/bakutv.png",
-      "server": "rtmp.baku2.tv",
+      "server": "rtmp.baku.tv",
       "tokenRequired": false,
       "quality": ["HD"],
       "active": true,
@@ -47,7 +47,7 @@
       "id": "medeniyyet",
       "name": "Mədəniyyət TV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/medeniyyet.png",
-      "server": "str.yodacdn.nett",
+      "server": "str.yodacdn.net",
       "tokenRequired": true,
       "quality": ["HD", "SD"],
       "active": true,
@@ -106,77 +106,70 @@
   ],
   "tokens": {
     "aztv": {
-      "token": "live_token_will_be_updated_here",
+      "token": "2aed5099a28471d84f1b6a8c350cde0c8f3db249-03d9ea90053b0e7e0ca3d7acc90d951c-1756053892000000-1756043092000",
       "sessionId": "session_id_here",
-      "expires": 1728374400,
+      "expires": 1756043092,
       "lastUpdated": 1728367200,
-      "hdUrl": "https://str.yodacdn.net/aztv/index.m3u8?token={token}",
-      "sdUrl": "https://str.yodacdn.net/aztv_sd/index.m3u8?token={token}"
+      "hdUrl": "https://str2.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8?token={token}",
+      "sdUrl": "https://str2.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8?token={token}"
     },
     "realtv": {
-      "token": "real_token_here",
+      "token": "c57fe20fd1f6653a71214484c2a29d269c2a024d-0572f357d82a1169eec0912f0eb9e219-1756239994000000-1756229194000",
       "sessionId": "real_session_id",
-      "expires": 1728374400,
+      "expires": 1756229194,
       "lastUpdated": 1728367200,
-      "hdUrl": "https://str2.yodacdn.net/realtv/index.m3u8?token={token}",
-      "sdUrl": "https://str2.yodacdn.net/realtv_sd/index.m3u8?token={token}"
+      "hdUrl": "https://str2.yodacdn.net/realtv/tracks-v1a1/mono.ts.m3u8?token={token}",
+      "sdUrl": "https://str2.yodacdn.net/realtv/tracks-v1a1/mono.ts.m3u8?token={token}"
     },
     "medeniyyet": {
-      "token": "medeniyyet_token_here",
+      "token": "c57fe20fd1f6653a71214484c2a29d269c2a024d-0572f357d82a1169eec0912f0eb9e219-1756239994000000-1756229194000",
       "sessionId": "medeniyyet_session",
-      "expires": 1728374400,
+      "expires": 1756229194,
       "lastUpdated": 1728367200,
-      "hdUrl": "https://str.yodacdn.net/med/index.m3u8?token={token}",
-      "sdUrl": "https://str.yodacdn.net/med_sd/index.m3u8?token={token}"
+      "hdUrl": "https://str2.yodacdn.net/medeniyyet/tracks-v1a1/mono.ts.m3u8?token={token}",
+      "sdUrl": "https://str2.yodacdn.net/medeniyyet/tracks-v1a1/mono.ts.m3u8?token={token}"
     },
     "idman": {
-      "token": "idman_token_here",
+      "token": "c57fe20fd1f6653a71214484c2a29d269c2a024d-0572f357d82a1169eec0912f0eb9e219-1756239994000000-1756229194000",
       "sessionId": "idman_session",
-      "expires": 1728374400,
+      "expires": 1756229194,
       "lastUpdated": 1728367200,
-      "hdUrl": "https://str.yodacdn.net/idman/index.m3u8?token={token}",
-      "sdUrl": "https://str.yodacdn.net/idman_sd/index.m3u8?token={token}"
+      "hdUrl": "https://str2.yodacdn.net/idman/tracks-v1a1/mono.ts.m3u8?token={token}",
+      "sdUrl": "https://str2.yodacdn.net/idman/tracks-v1a1/mono.ts.m3u8?token={token}"
     },
     "kanal35": {
-      "token": "kanal35_token_here",
+      "token": "c57fe20fd1f6653a71214484c2a29d269c2a024d-0572f357d82a1169eec0912f0eb9e219-1756239994000000-1756229194000",
       "sessionId": "kanal35_session",
-      "expires": 1728374400,
+      "expires": 1756229194,
       "lastUpdated": 1728367200,
-      "hdUrl": "https://str.yodacdn.net/kanal35/index.m3u8?token={token}",
-      "sdUrl": "https://str.yodacdn.net/kanal35_sd/index.m3u8?token={token}"
+      "hdUrl": "https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8?token={token}",
+      "sdUrl": "https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8?token={token}"
     },
     "naxcivan": {
-      "token": "naxcivan_token_here",
+      "token": "c57fe20fd1f6653a71214484c2a29d269c2a024d-0572f357d82a1169eec0912f0eb9e219-1756239994000000-1756229194000",
       "sessionId": "naxcivan_session",
-      "expires": 1728374400,
+      "expires": 1756229194,
       "lastUpdated": 1728367200,
-      "hdUrl": "https://str2.yodacdn.net/naxcivan/index.m3u8?token={token}",
-      "sdUrl": "https://str2.yodacdn.net/naxcivan_sd/index.m3u8?token={token}"
+      "hdUrl": "https://str2.yodacdn.net/naxcivan/tracks-v1a1/mono.ts.m3u8?token={token}",
+      "sdUrl": "https://str2.yodacdn.net/naxcivan/tracks-v1a1/mono.ts.m3u8?token={token}"
     }
   },
   "staticChannels": {
     "itv": {
-      "hdUrl": "https://live.itv.az/hls/itv_hd.m3u8",
-      "sdUrl": "https://live.itv.az/hls/itv_sd.m3u8"
+      "hdUrl": "https://live.itv.az/hls/itv.m3u8",
+      "sdUrl": "https://live.itv.az/hls/itv.m3u8"
     },
     "bakutv": {
       "hdUrl": "https://rtmp.baku.tv/live/bakutv.m3u8",
-      "sdUrl": "https://rtmp.baku.tv/live/bakutv_sd.m3u8"
+      "sdUrl": "https://rtmp.baku.tv/live/bakutv.m3u8"
     },
     "xezer": {
       "hdUrl": "https://turknet.ercdn.net/xezer/xezer.m3u8",
-      "sdUrl": "https://turknet.ercdn.net/xezer/xezer_sd.m3u8"
+      "sdUrl": "https://turknet.ercdn.net/xezer/xezer.m3u8"
     },
     "space": {
-      "hdUrl": "https://daioncdn.net/spacetv/spacetv.m3u8",
-      "sdUrl": "https://daioncdn.net/spacetv/spacetv_sd.m3u8"
+      "hdUrl": "https://beyaztv.daioncdn.net/spacetv/spacetv.m3u8",
+      "sdUrl": "https://beyaztv.daioncdn.net/spacetv/spacetv.m3u8"
     }
   }
-
 }
-
-
-
-
-
-
