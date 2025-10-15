@@ -38,9 +38,9 @@
       "name": "Real TV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/realtv.png",
       "server": "str2.yodacdn.net",
-      "tokenRequired": true,
+      "tokenRequired": false,
       "quality": ["HD", "SD"],
-      "active": true,
+      "active": false,
       "priority": 4
     },
     {
@@ -172,4 +172,5 @@
       "sdUrl": "https://beyaztv.daioncdn.net/spacetv/spacetv.m3u8"
     }
   }
+
 }
