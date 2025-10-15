@@ -38,9 +38,9 @@
       "name": "Real TV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/realtv.png",
       "server": "str2.yodacdn.net",
-      "tokenRequired": false,
+      "tokenRequired": true,
       "quality": ["HD", "SD"],
-      "active": false,
+      "active": true,
       "priority": 4
     },
     {
@@ -174,5 +174,6 @@
   }
 
 }
+
 
 
