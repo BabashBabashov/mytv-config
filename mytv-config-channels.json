@@ -163,8 +163,8 @@
     },
 
        "aztv": {
-      "hdUrl": "https://185.102.219.82/5929820/tracks-v1a1/index.m3u8?token=",
-      "sdUrl": "https://185.102.219.82/5929820/tracks-v1a1/index.m3u8?token="
+      "hdUrl": "https://str2.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8",
+      "sdUrl": "https://str2.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8"
     },
     "space": {
       "hdUrl": "https://beyaztv.daioncdn.net/spacetv/spacetv.m3u8",
@@ -173,6 +173,7 @@
   }
 
 }
+
 
 
 
