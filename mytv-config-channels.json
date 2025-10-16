@@ -102,6 +102,16 @@
       "quality": ["HD", "SD"],
       "active": true,
       "priority": 10
+    },
+    {
+      "id": "cbcsport",
+      "name": "CBC Sport",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/cbcsport.png",
+      "server": "mn-nl.mncdn.com",
+      "tokenRequired": true,
+      "quality": ["HD", "SD"],
+      "active": true,
+      "priority": 11
     }
   ],
   "tokens": {
@@ -161,7 +171,12 @@
     },
     "bakutv": {
       "hdUrl": "https://rtmp.baku.tv/live/bakutv.m3u8",
-      "sdUrl": "https://rtmp.baku.tv/live/bakutv.m3u8"
+      "sdUrl": "https://rtmp.baku.tv/live/bakutv.m3u8"  
+    },
+
+    "cbc sport": {
+      "hdUrl": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8",
+      "sdUrl": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8"
     },
     "xezer": {
       "hdUrl": "https://turknet.ercdn.net/xezer/xezer.m3u8",
@@ -174,6 +189,7 @@
   }
 
 }
+
 
 
 
