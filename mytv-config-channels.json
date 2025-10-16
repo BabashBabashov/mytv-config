@@ -112,7 +112,19 @@
       "quality": ["HD", "SD"],
       "active": true,
       "priority": 11
+    },
+ {
+      "id": "vilayet",
+      "name": "Vilayət TV",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/vilayet.png",
+      "server": "nl.livekadeh.com",
+      "tokenRequired": false,
+      "quality": ["HD", "SD"],
+      "active": true,
+      "priority": 12
     }
+
+    
   ],
   "tokens": {
     
@@ -139,6 +151,10 @@
       "hdUrl": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8",
       "sdUrl": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8"
     },
+    "vilayet": {
+      "hdUrl": "https://nl.livekadeh.com/hls2/vilayet_src.m3u8",
+      "sdUrl": "https://nl.livekadeh.com/hls2/vilayet_src.m3u8"
+    },
     "xezer": {
       "hdUrl": "https://turknet.ercdn.net/xezer/xezer.m3u8",
       "sdUrl": "https://turknet.ercdn.net/xezer/xezer.m3u8"
@@ -150,6 +166,7 @@
   }
 
 }
+
 
 
 
