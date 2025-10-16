@@ -5,7 +5,7 @@
   "channels": [
     {
       "id": "aztv",
-      "name": "AZTV1",
+      "name": "AZTV2",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/aztv.png",
       "server": "str2.yodacdn.net",
       "tokenRequired": false,
@@ -173,6 +173,7 @@
   }
 
 }
+
 
 
 
