@@ -5,7 +5,7 @@
   "channels": [
     {
       "id": "aztv",
-      "name": "AZTV",
+      "name": "AZTV DəRHAL TEST",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/aztv.png",
       "server": "str.yodacdn.net",
       "tokenRequired": true,
@@ -15,7 +15,7 @@
     },
     {
       "id": "itv",
-      "name": "İTV",
+      "name": "ıTV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/itv.png",
       "server": "live.itv.az",
       "tokenRequired": true,
@@ -174,7 +174,6 @@
   }
 
 }
-
 
 
 
