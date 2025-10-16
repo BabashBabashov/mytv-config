@@ -135,7 +135,7 @@
       "sdUrl": "https://rtmp.baku.tv/live/bakutv.m3u8"  
     },
 
-    "cbc sport": {
+    "cbcsport": {
       "hdUrl": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8",
       "sdUrl": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8"
     },
@@ -150,6 +150,7 @@
   }
 
 }
+
 
 
 
