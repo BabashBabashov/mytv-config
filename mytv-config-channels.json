@@ -115,46 +115,7 @@
     }
   ],
   "tokens": {
-    "aztv": {
-      "token": "2aed5099a28471d84f1b6a8c350cde0c8f3db249-03d9ea90053b0e7e0ca3d7acc90d951c-1756053892000000-1756043092000",
-      "sessionId": "session_id_here",
-      "expires": 1756043092,
-      "lastUpdated": 1728367200,
-      "hdUrl": "https://str2.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8?token={token}",
-      "sdUrl": "https://str2.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8?token={token}"
-    },
-    "realtv": {
-      "token": "c57fe20fd1f6653a71214484c2a29d269c2a024d-0572f357d82a1169eec0912f0eb9e219-1756239994000000-1756229194000",
-      "sessionId": "real_session_id",
-      "expires": 1756229194,
-      "lastUpdated": 1728367200,
-      "hdUrl": "https://str2.yodacdn.net/realtv/tracks-v1a1/mono.ts.m3u8?token={token}",
-      "sdUrl": "https://str2.yodacdn.net/realtv/tracks-v1a1/mono.ts.m3u8?token={token}"
-    },
-    "medeniyyet": {
-      "token": "c57fe20fd1f6653a71214484c2a29d269c2a024d-0572f357d82a1169eec0912f0eb9e219-1756239994000000-1756229194000",
-      "sessionId": "medeniyyet_session",
-      "expires": 1756229194,
-      "lastUpdated": 1728367200,
-      "hdUrl": "https://str2.yodacdn.net/medeniyyet/tracks-v1a1/mono.ts.m3u8?token={token}",
-      "sdUrl": "https://str2.yodacdn.net/medeniyyet/tracks-v1a1/mono.ts.m3u8?token={token}"
-    },
-    "idman": {
-      "token": "c57fe20fd1f6653a71214484c2a29d269c2a024d-0572f357d82a1169eec0912f0eb9e219-1756239994000000-1756229194000",
-      "sessionId": "idman_session",
-      "expires": 1756229194,
-      "lastUpdated": 1728367200,
-      "hdUrl": "https://str2.yodacdn.net/idman/tracks-v1a1/mono.ts.m3u8?token={token}",
-      "sdUrl": "https://str2.yodacdn.net/idman/tracks-v1a1/mono.ts.m3u8?token={token}"
-    },
-    "kanal35": {
-      "token": "c57fe20fd1f6653a71214484c2a29d269c2a024d-0572f357d82a1169eec0912f0eb9e219-1756239994000000-1756229194000",
-      "sessionId": "kanal35_session",
-      "expires": 1756229194,
-      "lastUpdated": 1728367200,
-      "hdUrl": "https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8?token={token}",
-      "sdUrl": "https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8?token={token}"
-    },
+    
     "naxcivan": {
       "token": "c57fe20fd1f6653a71214484c2a29d269c2a024d-0572f357d82a1169eec0912f0eb9e219-1756239994000000-1756229194000",
       "sessionId": "naxcivan_session",
@@ -189,6 +150,7 @@
   }
 
 }
+
 
 
 
