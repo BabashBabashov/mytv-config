@@ -5,7 +5,7 @@
   "channels": [
     {
       "id": "aztv",
-      "name": "AZTV FRESH TEST",
+      "name": "AZTV FRESH TEST2",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/aztv.png",
       "server": "str.yodacdn.net",
       "tokenRequired": true,
@@ -174,6 +174,7 @@
   }
 
 }
+
 
 
 
