@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "lastUpdated": "2025-10-08T06:10:00Z",
-  "updateInterval": 1800,
+  "updateInterval": 100,
   "channels": [
     {
       "id": "aztv",
@@ -173,6 +173,7 @@
   }
 
 }
+
 
 
 
