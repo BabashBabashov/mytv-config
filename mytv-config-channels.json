@@ -7,8 +7,8 @@
       "id": "aztv",
       "name": "AZTV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/aztv.png",
-      "server": "str.yodacdn.net",
-      "tokenRequired": true,
+      "server": "str2.yodacdn.net",
+      "tokenRequired": false,
       "quality": ["HD", "SD"],
       "active": true,
       "priority": 1
@@ -159,6 +159,11 @@
       "hdUrl": "https://turknet.ercdn.net/xezer/xezer.m3u8",
       "sdUrl": "https://turknet.ercdn.net/xezer/xezer.m3u8"
     },
+
+       "aztv": {
+      "hdUrl": "https://str2.yodacdn.net/aztv/index.m3u8",
+      "sdUrl": "https://str2.yodacdn.net/aztv/index.m3u8"
+    },
     "space": {
       "hdUrl": "https://beyaztv.daioncdn.net/spacetv/spacetv.m3u8",
       "sdUrl": "https://beyaztv.daioncdn.net/spacetv/spacetv.m3u8"
@@ -166,6 +171,7 @@
   }
 
 }
+
 
 
 
