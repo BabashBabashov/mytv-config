@@ -105,7 +105,7 @@
     },
     {
       "id": "cbcsport",
-      "name": "CBC Sport yeni",
+      "name": "CBC Sport",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/cbcsport.png",
       "server": "mn-nl.mncdn.com",
       "tokenRequired": false,
