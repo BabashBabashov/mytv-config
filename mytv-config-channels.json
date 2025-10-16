@@ -108,7 +108,7 @@
       "name": "CBC Sport yeni",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/cbcsport.png",
       "server": "mn-nl.mncdn.com",
-      "tokenRequired": true,
+      "tokenRequired": false,
       "quality": ["HD", "SD"],
       "active": true,
       "priority": 11
@@ -150,6 +150,7 @@
   }
 
 }
+
 
 
 
