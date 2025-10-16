@@ -5,10 +5,10 @@
   "channels": [
     {
       "id": "aztv",
-      "name": "AZTV",
+      "name": "AZTV T",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/aztv.png",
       "server": "str2.yodacdn.net",
-      "tokenRequired": false,
+      "tokenRequired": true,
       "quality": ["HD", "SD"],
       "active": true,
       "priority": 1
@@ -137,7 +137,19 @@
       "lastUpdated": 1728367200,
       "hdUrl": "https://str2.yodacdn.net/naxcivan/tracks-v1a1/mono.ts.m3u8?token={token}",
       "sdUrl": "https://str2.yodacdn.net/naxcivan/tracks-v1a1/mono.ts.m3u8?token={token}"
+    },
+
+"aztv": {
+      "token": "c57fe20fd1f6653a71214484c2a29d269c2a024d-0572f357d82a1169eec0912f0eb9e219-1756239994000000-1756229194000",
+      "sessionId": "aztv_session",
+      "expires": 1756229194,
+      "lastUpdated": 1728367200,
+      "hdUrl": "https://str2.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjUuMTk3LjEwNC4yIiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQxLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJleHAiOjE3NjA2MjY0MTIsImp0aSI6ImQ3MzQ4ZGE4YTAxMjNlZDIifQ%3D%3D.v2NeDiQriMnix1rR9A9uKNMSYCGav8ueJJblu%2FZ33Dk%3D",
+      "sdUrl": "https://str2.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjUuMTk3LjEwNC4yIiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQxLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJleHAiOjE3NjA2MjY0MTIsImp0aSI6ImQ3MzQ4ZGE4YTAxMjNlZDIifQ%3D%3D.v2NeDiQriMnix1rR9A9uKNMSYCGav8ueJJblu%2FZ33Dk%3D"
     }
+
+    
+
   },
   "staticChannels": {
     "itv": {
@@ -173,6 +185,7 @@
   }
 
 }
+
 
 
 
