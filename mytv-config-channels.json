@@ -161,8 +161,8 @@
     },
 
        "aztv": {
-      "hdUrl": "https://str2.yodacdn.net/aztv/index.m3u8",
-      "sdUrl": "https://str2.yodacdn.net/aztv/index.m3u8"
+      "hdUrl": "https://str2.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjE2LjYiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDEuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc2MDU4Njg5NiwianRpIjoiMzI5MWU0Y2Q4M2FhZmIzMSJ9.nYfeJuelKVqt433qP4TvN%2FgNw4ICR%2FmFoLzhBAP3Nn8%3D",
+      "sdUrl": "https://str2.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjE2LjYiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDEuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc2MDU4Njg5NiwianRpIjoiMzI5MWU0Y2Q4M2FhZmIzMSJ9.nYfeJuelKVqt433qP4TvN%2FgNw4ICR%2FmFoLzhBAP3Nn8%3D"
     },
     "space": {
       "hdUrl": "https://beyaztv.daioncdn.net/spacetv/spacetv.m3u8",
@@ -171,6 +171,7 @@
   }
 
 }
+
 
 
 
