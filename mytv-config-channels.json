@@ -116,7 +116,7 @@
  {
       "id": "vilayet",
       "name": "Vilayət TV",
-      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/vilayet.png",
+      "logoUrl": "https://share.google/images/wFrtmQTJY2xw40ujd",
       "server": "nl.livekadeh.com",
       "tokenRequired": false,
       "quality": ["HD", "SD"],
@@ -166,6 +166,7 @@
   }
 
 }
+
 
 
 
