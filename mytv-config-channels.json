@@ -18,7 +18,7 @@
       "name": "ıTV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/itv.png",
       "server": "live.itv.az",
-      "tokenRequired": true,
+      "tokenRequired": false,
       "quality": ["HD", "SD"],
       "active": true,
       "priority": 2
@@ -28,7 +28,7 @@
       "name": "Baku TV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/bakutv.png",
       "server": "rtmp.baku.tv",
-      "tokenRequired": true,
+      "tokenRequired": false,
       "quality": ["HD"],
       "active": true,
       "priority": 3
@@ -38,9 +38,9 @@
       "name": "Real TV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/realtv.png",
       "server": "str2.yodacdn.net",
-      "tokenRequired": true,
+      "tokenRequired": false,
       "quality": ["HD", "SD"],
-      "active": true,
+      "active": false,
       "priority": 4
     },
     {
@@ -48,9 +48,9 @@
       "name": "Mədəniyyət TV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/medeniyyet.png",
       "server": "str.yodacdn.net",
-      "tokenRequired": true,
+      "tokenRequired": false,
       "quality": ["HD", "SD"],
-      "active": true,
+      "active": false,
       "priority": 5
     },
     {
@@ -58,9 +58,9 @@
       "name": "ıdman TV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/idman.png",
       "server": "str.yodacdn.net",
-      "tokenRequired": true,
+      "tokenRequired": false,
       "quality": ["HD", "SD"],
-      "active": true,
+      "active": false,
       "priority": 6
     },
     {
@@ -68,9 +68,9 @@
       "name": "Kanal 35",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/kanal35.png",
       "server": "str.yodacdn.net",
-      "tokenRequired": true,
+      "tokenRequired": false,
       "quality": ["HD", "SD"],
-      "active": true,
+      "active": false,
       "priority": 7
     },
     {
@@ -88,7 +88,7 @@
       "name": "Xəzər TV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/xezer.png",
       "server": "turknet.ercdn.net",
-      "tokenRequired": true,
+      "tokenRequired": false,
       "quality": ["HD", "SD"],
       "active": true,
       "priority": 9
@@ -98,7 +98,7 @@
       "name": "Space TV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/space.png",
       "server": "daioncdn.net",
-      "tokenRequired": true,
+      "tokenRequired": false,
       "quality": ["HD", "SD"],
       "active": true,
       "priority": 10
@@ -176,7 +176,6 @@
   }
 
 }
-
 
 
 
