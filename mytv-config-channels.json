@@ -187,7 +187,7 @@
       "sdUrl": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports_480p/chunklist.m3u8"
     },
     "vilayet": {
-      "hdUrl": "https://nl.livekadeh.com/hls2/vilayet_720p.m3u8",
+      "hdUrl": "https://nl.livekadeh.com/hls2/vilayet.m3u8",
       "sdUrl": "https://nl.livekadeh.com/hls2/vilayet_480p.m3u8"
     },
     "xezer": {
@@ -219,6 +219,7 @@
   }
 
 }
+
 
 
 
