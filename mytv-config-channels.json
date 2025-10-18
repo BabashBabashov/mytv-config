@@ -166,7 +166,7 @@
       "expires": 1756229194,
       "lastUpdated": 1728367200,
       "hdUrl": "https://str2.yodacdn.net/naxcivan/tracks-v1a1/mono.ts.m3u8?token={token}",
-      "sdUrl": "https://str2.yodacdn.net/naxcivan/tracks-v1a1/mono.ts.m3u8?token={token}"
+      "sdUrl": "https://str2.yodacdn.net/naxcivan/tracks-v2a1/mono.ts.m3u8?token={token}"
     }
 
     
@@ -174,98 +174,51 @@
   },
   "staticChannels": {
     "itv": {
-      "hdUrl": "https://live.itv.az/hls/itv.m3u8",
-      "sdUrl": "https://live.itv.az/hls/itv.m3u8"
+      "hdUrl": "https://live.itv.az/hls/itv_720p.m3u8",
+      "sdUrl": "https://live.itv.az/hls/itv_480p.m3u8"
     },
     "bakutv": {
-      "hdUrl": "https://rtmp.baku.tv/live/bakutv.m3u8",
-      "sdUrl": "https://rtmp.baku.tv/live/bakutv.m3u8"  
+      "hdUrl": "https://rtmp.baku.tv/live/bakutv_720p.m3u8",
+      "sdUrl": "https://rtmp.baku.tv/live/bakutv_480p.m3u8"
     },
 
     "cbcsport": {
-      "hdUrl": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8",
-      "sdUrl": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8"
+      "hdUrl": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports_720p/chunklist.m3u8",
+      "sdUrl": "https://mn-nl.mncdn.com/cbcsports_live/cbcsports_480p/chunklist.m3u8"
     },
     "vilayet": {
-      "hdUrl": "https://nl.livekadeh.com/hls2/vilayet_src.m3u8",
-      "sdUrl": "https://nl.livekadeh.com/hls2/vilayet_src.m3u8"
+      "hdUrl": "https://nl.livekadeh.com/hls2/vilayet_720p.m3u8",
+      "sdUrl": "https://nl.livekadeh.com/hls2/vilayet_480p.m3u8"
     },
     "xezer": {
-      "hdUrl": "https://turknet.ercdn.net/xezer/xezer.m3u8",
-      "sdUrl": "https://turknet.ercdn.net/xezer/xezer.m3u8"
+      "hdUrl": "https://turknet.ercdn.net/xezer/xezer_720p.m3u8",
+      "sdUrl": "https://turknet.ercdn.net/xezer/xezer_480p.m3u8"
     },
 
-       "aztv": {
+    "aztv": {
       "hdUrl": "https://str2.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8",
-      "sdUrl": "https://str2.yodacdn.net/aztv/tracks-v1a1/mono.ts.m3u8"
+      "sdUrl": "https://str2.yodacdn.net/aztv/tracks-v2a1/mono.ts.m3u8"
     },
-"idman": {
+    "idman": {
       "hdUrl": "https://str2.yodacdn.net/idman/tracks-v1a1/mono.ts.m3u8",
-      "sdUrl": "https://str2.yodacdn.net/idman/tracks-v1a1/mono.ts.m3u8"
+      "sdUrl": "https://str2.yodacdn.net/idman/tracks-v2a1/mono.ts.m3u8"
     },
-      "medeniyyet": {
+    "medeniyyet": {
       "hdUrl": "https://str2.yodacdn.net/meden/tracks-v1a1/mono.ts.m3u8",
-      "sdUrl": "https://str2.yodacdn.net/meden/tracks-v1a1/mono.ts.m3u8"
+      "sdUrl": "https://str2.yodacdn.net/meden/tracks-v2a1/mono.ts.m3u8"
     },
-      "beyaz": {
-      "hdUrl": "https://beyaztv.daioncdn.net/beyaztv/beyaztv_480p.m3u8?&sid=7u72cw4cu1mw&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
-      "sdUrl": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8"
-    }, 
+    "beyaz": {
+      "hdUrl": "https://beyaztv.daioncdn.net/beyaztv/beyaztv_720p.m3u8?&sid=7u72cw4cu1mw&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
+      "sdUrl": "https://beyaztv.daioncdn.net/beyaztv/beyaztv_480p.m3u8?&sid=7u72cw4cu1mw&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3"
+    },
  
-    
     "space": {
-      "hdUrl": "https://mydo.canlitvplayer.com/space.m3u8?bandwidth=796&e=1760840987&playlistlength=5&shift=0&sid=coder_75&token=dd17ce2ba304c2661878cecb80457651&user=37076",
-      "sdUrl": "https://mydo.canlitvplayer.com/space.m3u8?bandwidth=796&e=1760840987&playlistlength=5&shift=0&sid=coder_75&token=dd17ce2ba304c2661878cecb80457651&user=37076"
+      "hdUrl": "https://mydo.canlitvplayer.com/space_720p.m3u8?bandwidth=1200&e=1760840987&playlistlength=5&shift=0&sid=coder_75&token=dd17ce2ba304c2661878cecb80457651&user=37076",
+      "sdUrl": "https://mydo.canlitvplayer.com/space_480p.m3u8?bandwidth=600&e=1760840987&playlistlength=5&shift=0&sid=coder_75&token=dd17ce2ba304c2661878cecb80457651&user=37076"
     }
   }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
