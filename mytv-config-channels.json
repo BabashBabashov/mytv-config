@@ -145,6 +145,16 @@
       "active": true,
       "priority": 14
     },
+     {
+      "id": "biznestv",
+      "name": "Biznes TV",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/biznestv.png",
+      "server": "https://www.youtube.com/",
+      "tokenRequired": false,
+      "quality": ["HD", "SD"],
+      "active": true,
+      "priority": 16
+    },
 {
       "id": "beyaz",
       "name": "Beyaz TV",
@@ -180,6 +190,10 @@
     "bakutv": {
       "hdUrl": "https://rtmp.baku.tv/hls/bakutv_1080p.m3u8",
       "sdUrl": "https://rtmp.baku.tv/hls/bakutv_480p.m3u8"
+    },
+     "biznestv": {
+      "hdUrl": "https://www.youtube.com/watch?v=Bix1c5ycoWM",
+      "sdUrl": "https://www.youtube.com/watch?v=Bix1c5ycoWM"
     },
 
     "cbcsport": {
@@ -219,6 +233,7 @@
   }
 
 }
+
 
 
 
