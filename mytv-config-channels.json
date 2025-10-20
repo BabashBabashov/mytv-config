@@ -25,7 +25,7 @@
     },
     {
       "id": "bakutv",
-      "name": "Baku TV",
+      "name": "Baku TV1",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/bakutv.png",
       "server": "rtmp.baku.tv",
       "tokenRequired": false,
@@ -219,6 +219,7 @@
   }
 
 }
+
 
 
 
