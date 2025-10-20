@@ -205,7 +205,7 @@
     },
     "medeniyyet": {
       "hdUrl": "https://str2.yodacdn.net/meden/tracks-v1a1/mono.ts.m3u8",
-      "sdUrl": "https://str2.yodacdn.net/meden/tracks-v2a1/mono.ts.m3u8"
+      "sdUrl": "https://str2.yodacdn.net/meden_300_to_small/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjE2LjI0NyIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0MS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzYwOTk1NDI5LCJqdGkiOiIwNGJhMWU1NzZmZjljZGFhIn0%3D.RGzloybign4M0b2uG10tYz3%2F1rzqrv4eYdCNDYg2nV8%3D"
     },
     "beyaz": {
       "hdUrl": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?&sid=7u72cw4cu1mw&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
@@ -219,6 +219,7 @@
   }
 
 }
+
 
 
 
