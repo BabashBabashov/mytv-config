@@ -15,7 +15,7 @@
     },
     {
       "id": "itv",
-      "name": "ıTV",
+      "name": "İTV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/itv.png",
       "server": "live.itv.az",
       "tokenRequired": false,
@@ -219,6 +219,7 @@
   }
 
 }
+
 
 
 
