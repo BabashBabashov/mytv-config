@@ -174,8 +174,8 @@
   },
   "staticChannels": {
     "itv": {
-      "hdUrl": "https://live.itv.az/hls/itv_720p.m3u8",
-      "sdUrl": "https://live.itv.az/hls/itv_480p.m3u8"
+      "hdUrl": "https://live.itv.az/hls/itv.m3u8",
+      "sdUrl": "https://str.yodacdn.net/ictimai/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE4OC4yNTMuMjA5LjI0NyIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0MS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzYwOTk1MzM0LCJqdGkiOiI0YjJmZTU2NGFjMDY5MGNmIn0%3D.BiDm+DFZeerlIsbMDVq%2FvQoBnt+oUgYO89HDPwwChhU%3D"
     },
     "bakutv": {
       "hdUrl": "https://rtmp.baku.tv/live/bakutv_720p.m3u8",
@@ -219,6 +219,7 @@
   }
 
 }
+
 
 
 
