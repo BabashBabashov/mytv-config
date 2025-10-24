@@ -145,16 +145,7 @@
       "active": true,
       "priority": 14
     },
-     {
-      "id": "biznestv",
-      "name": "Biznes TV",
-      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/biznestv.png",
-      "server": "https://www.youtube.com/",
-      "tokenRequired": false,
-      "quality": ["HD", "SD"],
-      "active": true,
-      "priority": 16
-    },
+    
 {
       "id": "beyaz",
       "name": "Beyaz TV",
