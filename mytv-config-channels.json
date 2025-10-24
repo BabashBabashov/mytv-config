@@ -13,6 +13,19 @@
       "active": true,
       "priority": 1
     },
+
+
+ {
+      "id": "biznestv",
+      "name": "Ferid TV",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/biznestv.png",
+      "server": "https://www.youtube.com/",
+      "tokenRequired": false,
+      "quality": ["HD", "SD"],
+      "active": true,
+      "priority": 16
+    },
+
     {
       "id": "itv",
       "name": "İTV",
