@@ -16,10 +16,10 @@
 
 
  {
-      "id": "biznestv",
-      "name": "Ferid TV",
-      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/biznestv.png",
-      "server": "https://www.youtube.com/",
+      "id": "gunestv",
+      "name": "Gunesh TV",
+      "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/gunestv.png",
+      "server": "yayin2.canlitv.fun",
       "tokenRequired": false,
       "quality": ["HD", "SD"],
       "active": true,
@@ -38,7 +38,7 @@
     },
     {
       "id": "bakutv",
-      "name": "Baku TV1",
+      "name": "Baku TV",
       "logoUrl": "https://raw.githubusercontent.com/BabashBabashov/mytv-config/main/logos/bakutv.png",
       "server": "rtmp.baku.tv",
       "tokenRequired": false,
@@ -195,9 +195,9 @@
       "hdUrl": "https://rtmp.baku.tv/hls/bakutv_1080p.m3u8",
       "sdUrl": "https://rtmp.baku.tv/hls/bakutv_480p.m3u8"
     },
-     "biznestv": {
-      "hdUrl": "https://www.youtube.com/watch?v=Bix1c5ycoWM",
-      "sdUrl": "https://www.youtube.com/watch?v=Bix1c5ycoWM"
+     "gunestv": {
+      "hdUrl": "https://yayin2.canlitv.fun/live/arbgunes.stream/chunklist_w2136150273.m3u8?hash=32a75ba3b5a52c81a3d40ce146058369",
+      "sdUrl": "https://yayin2.canlitv.fun/live/arbgunes.stream/chunklist_w2136150273.m3u8?hash=32a75ba3b5a52c81a3d40ce146058369"
     },
 
     "cbcsport": {
@@ -237,6 +237,7 @@
   }
 
 }
+
 
 
 
